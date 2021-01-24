@@ -34,7 +34,7 @@
     "codelyzer": "^6.0.1",
     "core-js": "^2.5.4",
     "d3": "^5.7.0",
-    "date-and-time": "^0.6.2",
+    "date-and-time": "^0.14.2",
     "file-saver": "^2.0.5",
     "firebase": "^7.5.0",
     "hammerjs": "^2.0.8",
